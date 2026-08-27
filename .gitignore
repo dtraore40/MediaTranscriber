@@ -2,4 +2,4 @@
 .env.example
 
 # Ignorer FFmpeg fourni localement
-# /ffmpeg-bin/
+/ffmpeg-bin/
